@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/myportfolio/static/css/main.b884db9a.css",
-    "main.js": "/myportfolio/static/js/main.014072bb.js",
+    "main.js": "/myportfolio/static/js/main.35f673df.js",
     "static/js/787.fb771931.chunk.js": "/myportfolio/static/js/787.fb771931.chunk.js",
     "static/media/project-img2.png": "/myportfolio/static/media/project-img2.4c0f78c66f3b3ceb9513.png",
     "static/media/project-img1.png": "/myportfolio/static/media/project-img1.4cb440f46bb4fa581776.png",
     "static/media/pinker.png": "/myportfolio/static/media/pinker.b6c53df217b30af5a628.png",
     "static/media/color-sharp.png": "/myportfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/sparkin.jpg": "/myportfolio/static/media/sparkin.2b46ed4217bba5d6662c.jpg",
     "static/media/color-sharp2.png": "/myportfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/wendi.png": "/myportfolio/static/media/wendi.918092661e91d5cfb88f.png",
     "static/media/banner-bg.png": "/myportfolio/static/media/banner-bg.cc1273af450504afe755.png",
@@ -26,11 +27,11 @@
     "index.html": "/myportfolio/index.html",
     "static/media/nav-icon1.svg": "/myportfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "main.b884db9a.css.map": "/myportfolio/static/css/main.b884db9a.css.map",
-    "main.014072bb.js.map": "/myportfolio/static/js/main.014072bb.js.map",
+    "main.35f673df.js.map": "/myportfolio/static/js/main.35f673df.js.map",
     "787.fb771931.chunk.js.map": "/myportfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b884db9a.css",
-    "static/js/main.014072bb.js"
+    "static/js/main.35f673df.js"
   ]
 }
